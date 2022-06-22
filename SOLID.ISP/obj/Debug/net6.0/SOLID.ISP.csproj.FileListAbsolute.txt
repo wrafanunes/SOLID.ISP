@@ -1,0 +1,15 @@
+C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.ISP\SOLID.ISP\bin\Debug\net6.0\SOLID.ISP.exe
+C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.ISP\SOLID.ISP\bin\Debug\net6.0\SOLID.ISP.deps.json
+C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.ISP\SOLID.ISP\bin\Debug\net6.0\SOLID.ISP.runtimeconfig.json
+C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.ISP\SOLID.ISP\bin\Debug\net6.0\SOLID.ISP.dll
+C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.ISP\SOLID.ISP\bin\Debug\net6.0\SOLID.ISP.pdb
+C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.ISP\SOLID.ISP\obj\Debug\net6.0\SOLID.ISP.csproj.AssemblyReference.cache
+C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.ISP\SOLID.ISP\obj\Debug\net6.0\SOLID.ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.ISP\SOLID.ISP\obj\Debug\net6.0\SOLID.ISP.AssemblyInfoInputs.cache
+C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.ISP\SOLID.ISP\obj\Debug\net6.0\SOLID.ISP.AssemblyInfo.cs
+C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.ISP\SOLID.ISP\obj\Debug\net6.0\SOLID.ISP.csproj.CoreCompileInputs.cache
+C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.ISP\SOLID.ISP\obj\Debug\net6.0\SOLID.ISP.dll
+C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.ISP\SOLID.ISP\obj\Debug\net6.0\refint\SOLID.ISP.dll
+C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.ISP\SOLID.ISP\obj\Debug\net6.0\SOLID.ISP.pdb
+C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.ISP\SOLID.ISP\obj\Debug\net6.0\SOLID.ISP.genruntimeconfig.cache
+C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.ISP\SOLID.ISP\obj\Debug\net6.0\ref\SOLID.ISP.dll
