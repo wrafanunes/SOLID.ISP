@@ -13,3 +13,6 @@ C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.ISP\SOLID.ISP\obj\Debug\net
 C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.ISP\SOLID.ISP\obj\Debug\net6.0\SOLID.ISP.pdb
 C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.ISP\SOLID.ISP\obj\Debug\net6.0\SOLID.ISP.genruntimeconfig.cache
 C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.ISP\SOLID.ISP\obj\Debug\net6.0\ref\SOLID.ISP.dll
+C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.ISP\SOLID.ISP\bin\Debug\net6.0\DemoLibrary.dll
+C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.ISP\SOLID.ISP\bin\Debug\net6.0\DemoLibrary.pdb
+C:\Users\wilson.nunes\Documents\workspace\.NET\SOLID.ISP\SOLID.ISP\obj\Debug\net6.0\SOLID.ISP.csproj.CopyComplete

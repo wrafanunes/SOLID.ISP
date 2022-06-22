@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "SOLID.ISP/1.0.0": {
+        "dependencies": {
+          "DemoLibrary": "1.0.0"
+        },
         "runtime": {
           "SOLID.ISP.dll": {}
+        }
+      },
+      "DemoLibrary/1.0.0": {
+        "runtime": {
+          "DemoLibrary.dll": {}
         }
       }
     }
   },
   "libraries": {
     "SOLID.ISP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DemoLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

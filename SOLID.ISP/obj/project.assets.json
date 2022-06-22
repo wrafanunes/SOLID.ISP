@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "DemoLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DemoLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DemoLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DemoLibrary/1.0.0": {
+      "type": "project",
+      "path": "../DemoLibrary/DemoLibrary.csproj",
+      "msbuildProject": "../DemoLibrary/DemoLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "DemoLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\wilson.nunes\\.nuget\\packages\\": {},
@@ -43,7 +62,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\wilson.nunes\\Documents\\workspace\\.NET\\SOLID.ISP\\DemoLibrary\\DemoLibrary.csproj": {
+              "projectPath": "C:\\Users\\wilson.nunes\\Documents\\workspace\\.NET\\SOLID.ISP\\DemoLibrary\\DemoLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

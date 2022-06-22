@@ -6,14 +6,11 @@ using System.Threading.Tasks;
 
 namespace DemoLibrary
 {
-    /*Esta classe viola o Princípio de Segregação de Interface, já que um audiolivro não contém uma quantidade de
-    páginas*/
-    public class AudioBook : ILibraryItem
+    public class AudioBook : IBorrowableAudioBook
     {
         public string LibraryId { get; set; }
         public string Title { get; set; }
         public string Author { get; set; }
-        public int Pages { get; set; } = -1;
         public int CheckOutDurationInDays { get; set; } = 14;
         public string Borrower { get; set; }
         public DateTime BorrowDate { get; set; }
