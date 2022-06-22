@@ -11,12 +11,12 @@ namespace DemoLibrary
      BorrowerDate*/
     public class ReferenceBook : ILibraryItem
     {
-        public string? LibraryId { get; set; }
-        public string? Title { get; set; }
-        public string? Author { get; set; }
+        public string LibraryId { get; set; }
+        public string Title { get; set; }
+        public string Author { get; set; }
         public int Pages { get; set; }
         public int CheckOutDurationInDays { get; set; } = 0;
-        public string? Borrower { get; set; }
+        public string Borrower { get; set; }
         public DateTime BorrowDate { get; set; }
 
         //métodos não implementados, pois não são necessários
@@ -25,7 +25,7 @@ namespace DemoLibrary
             throw new NotImplementedException();
         }
 
-        public void CheckOut (string? borrower)
+        public void CheckOut (string borrower)
         {
             throw new NotImplementedException();
         }
