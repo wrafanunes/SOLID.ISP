@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace DemoLibrary
 {
-    //Esta classe está OK, pois realmente precisa implementar todas as propriedades e métodos da interface ILibraryItem
-    public class Book : ILibraryItem
+    /*Agora esta classe implementa de IBorrowableBook, que por sua vez implementa de IBook e ILibraryItem, sendo assim,
+    todas as informações necessárias para a classe Book estão presentes*/
+    public class Book : IBorrowableBook
     {
         public string LibraryId { get; set; }
         public string Title { get; set; }
