@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DemoLibrary
+namespace DemoLibrary.Book
 {
     /*Agora a classe ReferenceBook implementa IBook, que contém todas as informações de Book, exceto as propriedades
     * CheckOutDurationInDays, Borrower e BorrowerDate e nem os métodos CheckIn, CHeckOut e GetDueDate, que são

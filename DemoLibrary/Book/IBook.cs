@@ -1,10 +1,11 @@
-﻿using System;
+﻿using DemoLibrary.GeneralInterfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DemoLibrary
+namespace DemoLibrary.Book
 {
     /*IBook contém as propriedades usadas pela classe Book, e implementa a interface ILibraryItem, já que esta possui
     propriedades que também são necessárias para classe Book*/

@@ -1,10 +1,11 @@
-﻿using System;
+﻿using DemoLibrary.GeneralInterfaces;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DemoLibrary
+namespace DemoLibrary.DVD
 {
     /*Também seria possível não implementar as interfaces IDVD e IBorrowable e deixar para implementá-las na própria
      * classe DVD, mas não é o ideal.

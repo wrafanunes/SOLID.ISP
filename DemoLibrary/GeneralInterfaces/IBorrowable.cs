@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DemoLibrary
+namespace DemoLibrary.GeneralInterfaces
 {
     /*contém todas as propriedades e métodos das classes que definem itens emprestáveis (como livros, DVDs, Audiolivros),
      * mas não implementa IBook, porque alguns itens que podem ser emprestados não possuem as propriedades de Book.

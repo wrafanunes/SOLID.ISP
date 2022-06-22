@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DemoLibrary
+namespace DemoLibrary.GeneralInterfaces
 {
     //Agora esta interface contém somente as propriedades que todas as classes herdarão
     public interface ILibraryItem
